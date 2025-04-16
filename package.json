@@ -1,0 +1,24 @@
+{
+  "name": "jobportal-yt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {  
+      "install-server": "cd backend && npm install",
+      "start-server": "cd backend && npm run dev",
+      "install-client": "cd frontend && npm install",
+      "build-client": "cd frontend && npm run build",
+      "start-client": "cd frontend && npm run dev"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Surendrakumarpatel/jobportal-yt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Surendrakumarpatel/jobportal-yt/issues"
+  },
+  "homepage": "https://github.com/Surendrakumarpatel/jobportal-yt#readme",
+  "description": ""
+}
